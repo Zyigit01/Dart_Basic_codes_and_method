@@ -1,3 +1,6 @@
+// Kenarlarını girdiğiniz üçgenin çeşidini yazdıran programı
+// yazınız.(ikizkenar, eşit kenar, çeşit kenar üçgen mi?)
+
 import 'dart:io';
 
 void main() {

@@ -1,3 +1,5 @@
+// Girilen bir sayının faktöriyelini bulan programı yazınız.
+
 import 'dart:io';
 
 void main() {

@@ -1,3 +1,6 @@
+//  Girilen sayının 5 in
+// kuvveti olup olmadığını bulan program
+
 import 'dart:io';
 
 void main() {

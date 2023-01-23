@@ -1,3 +1,5 @@
+// 3 double değişken oluşturun. Bunların ortalamasını bulan programı yapınız.
+
 void main() {
   double sayi1 = 15.3;
   double sayi2 = 83.2;
